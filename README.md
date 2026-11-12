@@ -18,11 +18,9 @@ We conducted a between-subjects study comparing two speech design conditions:
 
 ## Authors
 
-| Name | Student ID | Email |
-|------|-----------|-------|
-| Baris Kaban | 2837738 | b.kaban@student.vu.nl |
-| Goktug Yildirim | 2814081 | g.yildirim2@student.vu.nl |
-| Salma el Ouali | 2783275 | s.el.ouali@student.vu.nl |
+- Baris Kaban
+- Goktug Yildirim
+- Salma el Ouali
 
 *Vrije Universiteit Amsterdam — Artificial Intelligence*
 
@@ -120,7 +118,7 @@ Voice-Accessible-Restaurant-Ordering/
 Team project for **Human Computer Interaction for AI**, Vrije Universiteit Amsterdam.
 Team: Baris Kaban, Goktug Yildirim, Salma el Ouali.
 
-**My contributions:** As stated in the report's Statement of Contribution: study conception and design, data collection and experimental execution, and draft manuscript preparation were shared by all authors; Furhat robot programming was done by B. Kaban and G. Yildirim; analysis and interpretation of results is credited to B. Kaban and S. el Ouali.
+**My contributions:** Furhat robot programming (with B. Kaban) and, together with all authors, study design, data collection and drafting the report, as stated in the report's Statement of Contribution.
 
 A copy is also published by teammate Barış Kaban at [github.com/bariskaban/Voice-Accessible-Restaurant-Ordering](https://github.com/bariskaban/Voice-Accessible-Restaurant-Ordering).
 
