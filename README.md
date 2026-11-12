@@ -115,6 +115,15 @@ Voice-Accessible-Restaurant-Ordering/
 
 ---
 
+## Team
+
+Team project for **Human Computer Interaction for AI**, Vrije Universiteit Amsterdam.
+Team: Baris Kaban, Goktug Yildirim, Salma el Ouali.
+
+**My contributions:** As stated in the report's Statement of Contribution: study conception and design, data collection and experimental execution, and draft manuscript preparation were shared by all authors; Furhat robot programming was done by B. Kaban and G. Yildirim; analysis and interpretation of results is credited to B. Kaban and S. el Ouali.
+
+A copy is also published by teammate Barış Kaban at [github.com/bariskaban/Voice-Accessible-Restaurant-Ordering](https://github.com/bariskaban/Voice-Accessible-Restaurant-Ordering).
+
 ## License
 
 This project is licensed under the MIT License.
